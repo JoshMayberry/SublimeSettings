@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Chain of Command",
+		"File History",
+		"INI",
+		"Inno Setup",
+		"JSON Key-Value",
+		"Local History",
+		"MagicPython",
+		"Markdown Extended",
+		"Monokai JSON+",
+		"NSIS",
+		"Package Control",
+		"Pretty JSON",
+		"Pretty YAML"
+	]
+}

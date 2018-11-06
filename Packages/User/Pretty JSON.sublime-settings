@@ -1,0 +1,6 @@
+{
+    "indent": "\t",
+    "sort_keys": false,
+    // "pretty_on_save": true,
+    "validate_on_save": true
+}

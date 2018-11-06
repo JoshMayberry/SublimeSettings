@@ -1,0 +1,8 @@
+{
+    "dumper_args": {
+    	"explicit_start": true,
+        "explicit_end": true,
+        "width": 50,
+        "indent": 4
+    }
+}

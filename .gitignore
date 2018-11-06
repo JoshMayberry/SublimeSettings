@@ -1,0 +1,10 @@
+Pristine Packages/
+Packages/*
+Settings/
+Backup/
+!Packages/User
+Packages/User/*.crt
+Packages/User/Default*
+Packages/User/FileHistory*
+Packages/User/Package Control*
+!Packages/User/*.sublime-settings
