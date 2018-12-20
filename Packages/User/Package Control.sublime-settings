@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Chain of Command",
+		"Cython+",
 		"File History",
 		"INI",
 		"Inno Setup",

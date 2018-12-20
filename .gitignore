@@ -14,3 +14,7 @@ Packages/User/Package Control*
 Packages/Inno Setup/*
 !Packages/Inno Setup/Inno Setup.tmLanguage
 !Packages/Inno Setup/Inno Setup.sublime-completions
+
+!Packages/C++
+Packages/C++/*
+!Packages/C++/C++.sublime-build
