@@ -1,5 +1,6 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"detect_indentation": true,
 	"font_size": 10,
 	"ignored_packages":
 	[
@@ -9,5 +10,7 @@
 	[
 		"barcodes"
 	],
-	"spell_check": false
+	"spell_check": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": false
 }

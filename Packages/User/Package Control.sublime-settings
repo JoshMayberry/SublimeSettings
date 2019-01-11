@@ -1,13 +1,11 @@
 {
 	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
 	"installed_packages":
 	[
 		"Chain of Command",
 		"Cython+",
 		"File History",
+		"G-code Syntax Highlighting",
 		"INI",
 		"Inno Setup",
 		"JSON Key-Value",
