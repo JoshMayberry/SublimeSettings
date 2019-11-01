@@ -1,7 +1,11 @@
 {
 	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
+		"Better Less",
 		"Chain of Command",
 		"Cython+",
 		"File History",
@@ -16,6 +20,7 @@
 		"NSIS",
 		"Package Control",
 		"Pretty JSON",
-		"Pretty YAML"
+		"Pretty YAML",
+		"TypeScript"
 	]
 }

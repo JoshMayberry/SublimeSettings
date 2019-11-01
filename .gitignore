@@ -9,6 +9,7 @@ Packages/User/Default*
 Packages/User/FileHistory*
 Packages/User/Package Control*
 !Packages/User/*.sublime-settings
+!Packages/User/*.sublime-keymap
 
 !Packages/Inno Setup
 Packages/Inno Setup/*
