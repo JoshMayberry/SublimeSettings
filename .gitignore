@@ -19,3 +19,8 @@ Packages/Inno Setup/*
 !Packages/C++
 Packages/C++/*
 !Packages/C++/C++.sublime-build
+
+!Packages/AutoHotkey
+Packages/AutoHotkey/*
+!Packages/AutoHotkey/AutoHotkey.sublime-settings
+!Packages/AutoHotkey/Main.sublime-menu

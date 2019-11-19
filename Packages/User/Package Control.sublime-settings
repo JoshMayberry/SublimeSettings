@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"AutoHotkey",
 		"Better Less",
 		"Chain of Command",
 		"Color Highlighter",
@@ -13,6 +14,7 @@
 		"G-code Syntax Highlighting",
 		"INI",
 		"Inno Setup",
+		"JavaScript Completions",
 		"JSON Key-Value",
 		"Local History",
 		"MagicPython",
