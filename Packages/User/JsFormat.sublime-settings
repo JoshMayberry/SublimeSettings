@@ -1,0 +1,13 @@
+{
+	// exposed jsbeautifier options
+	"indent_with_tabs": true,
+	"keep_array_indentation": true,
+	"keep_function_indentation": true,
+
+	// jsformat options
+	"format_on_save": false,
+	"format_selection": true,
+	"jsbeautifyrc_files": false,
+	"ignore_sublime_settings": true,
+	"format_on_save_extensions": ["js", "json"]
+}
