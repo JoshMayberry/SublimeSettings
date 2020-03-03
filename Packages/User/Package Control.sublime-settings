@@ -14,7 +14,7 @@
 		"G-code Syntax Highlighting",
 		"INI",
 		"Inno Setup",
-		"JavaScript Completions",
+		"JavaScript Enhancements",
 		"JavaScriptNext - ES6 Syntax",
 		"JsFormat",
 		"JSON Key-Value",
@@ -24,9 +24,11 @@
 		"Monokai JSON+",
 		"NSIS",
 		"Package Control",
+		"PackageResourceViewer",
 		"Pretty JSON",
 		"Pretty YAML",
-		"SASS Build",
+		"Restart",
+		"Sass",
 		"TypeScript"
 	]
 }

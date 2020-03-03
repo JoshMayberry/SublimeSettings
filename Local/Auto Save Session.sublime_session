@@ -1,0 +1,775 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3211,
+	"last_window_id": 4,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"packageres",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"packageresource",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"packageResource",
+						"PackageResourceViewer: Extract All Packages"
+					],
+					[
+						"package res",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+					"PackageResourceViewer: Open Resource"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/jmayberry/AppData/Roaming/Sublime Text 3/Packages/Python/Python.sublime-build",
+				"/C/Users/jmayberry/AppData/Roaming/Sublime Text 3/Packages/PackageResourceViewer/README.md",
+				"/C/Users/jmayberry/AppData/Roaming/Sublime Text 3/Packages/Restart/Restart.sublime-settings"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/SASS Watch - Compressed.sublime-build",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "Package Control Messages\n========================\n\nColor Highlighter\n-----------------\n\n  \n  Color Highlighter v8.0 is released!\n  \n  For more info about the plugin visit https://github.com/Monnoroch/ColorHighlighter.\n  \n  Color Highlighter was developed for many years and features were added without consideration.\n  As a result it has plenty of bugs and code is completely unmaintainable.\n  Because of it, I've decided to rewrite the plugin from scratch using all the good programming practices I learned\n  over the years.\n  \n  This is the first release of the new version and it might have some subtle bugs, especially on Windows and Mac, as I\n  don't have machines with these systems. If you find any bugs, please file them in\n  the bug tracker here: https://github.com/Monnoroch/ColorHighlighter/issues. I always appreciate your help and try to fix\n  problems as soon as possible.\n  \n  The plugin is being developed by me alone in my spare time, so if you want to encourage me to build it\n  better and faster, donations as always welcome.\n  \n  Thank you guys for your support, every little bit helps!\n\n\nFile History\n------------\n\n  File History\n  ============\n  \n  Provides access to the history of accessed files - project-wise or globally.\n  The most recently closed file can be instantly re-opened with a keyboard\n  shortcut. Furthermore, you can search through the entire file history with a\n  quick panel (including file preview and the ability to open multiple files).\n  \n  For a changelog, see CHANGELOG.md.\n  \n  Usage\n  -----\n  \n  To use the plugin, open the Command Palette and search for `File History:`. You\n  can see the default key bindings in the palette, or alternatively browse\n  \"Preferences > Package Settings > File History > Key Bindings - Default\" in the\n  menu.\n  \n  \n  More Information\n  ----------------\n  \n  View more information like images or the exact commands and parameters on the\n  github page: https://github.com/FichteFoll/FileHistory (or in README.md).\n\n\nInno Setup\n----------\n\n  If you're using Inno Setup on Windows, it is recommended to also install\n  SublimeLinter and this plugin to highlight errors in your Inno Setup script:\n  \n      “SublimeLinter”, a linter for Sublime Text\n      https://packagecontrol.io/packages/SublimeLinter\n  \n      “SublimeLinter-contrib-iscc”, Inno Setup plugin\n      https://packagecontrol.io/packages/SublimeLinter-contrib-iscc\n\n\nJavaScript Completions\n----------------------\n\n  JavaScript Completions Package\n  ===============================\n  \n  🎉🎉 ANNOUNCEMENT - NEW PLUGIN \"JavaScript Enhancements\" RELEASED 🎉🎉\n  =======================================================================\n  \n  I developed a new plugin with new features thanks to Flow (javascript static type checker from Facebook).\n  \n  So, I will NO LONGER SUPPORT \"JavaScript Completions\" plugin, except in particular cases. \n  I'm going to focus only on this new one!\n  \n  You can find it on: 👉👉 https://github.com/pichillilorenzo/JavaScriptEnhancements 👈👈\n  \n  This new plugin offers not only a BETTER AUTOCOMPLETE but a lot of FEATURES about creating, \n  developing and managing javascript projects, such as:\n  \n  - JavaScript real-time errors\n  - Code Refactoring\n  - Local bookmarks project\n  - Cordova projects (run cordova emulate, build, compile, serve, etc. directly from Sublime Text!)\n  - Ionic v1 and v2 (it includes also v3) projects (same as Cordova projects!)\n  - Angular v1 and v2 (it includes also v4 and v5) projects\n  - Vue projects (only about the creation at this moment)\n  - React projects (only about the creation at this moment)\n  - React Native projects (only about the creation at this moment. I will add also **NativeScript** support)\n  - Express projects (only about the creation at this moment)\n  - Yeoman generators\n  - etc.\n  \n  You could use it also in existing projects!! \n  \n  SEE the Wiki - https://github.com/pichillilorenzo/JavaScriptEnhancements/wiki\n  to get the complete list of the features that it offers!\n  \n  It will turn Sublime Text into a JavaScript IDE like!\n  =====================================================\n  \n  ## OS SUPPORTED NOW by this new plugin:\n  =======================================\n  \n  👉 Linux (64-bit)\n  👉 Mac OS X \n  👉 Windows (64-bit)\n  \n  Email me for any questions or doubts about this new project on: pichillilorenzo@gmail.com\n  \n  Thanks for your support!!!\n  \n  \n  \n  \n  How To USE \"JavaScript Completions\"\n  ===================================\n  \n  To try it, just write.\n  \n  If you like this plugin, \"Star\" it on ---> https://github.com/pichillilorenzo/JavaScript-Completions <---\n  \n  jQuery and NativeScript completions disabled by default!\n  You can enable them on Preferences -> Package Settings -> JavaScript Completions.\n  \n  Some features could use npm!\n  It will be downloaded automatically with nodejs.\n  \n  Features list:\n  - \"Find JavaScript Description\" Feature\n  - \"On Hover Description\" Feature\n  - \"Evaluate JavaScript\" Feature\n  - \"Can I use?\" Feature\n  - \"JSDoc\" Feature\n  - Context menu options\n  \n  \n  ENABLE or DISABLE completions\n  =============================\n  \n  You can ENABLE or DISABLE completions! Just go to Preferences -> Package Settings -> JavaScript Completions\n  \n  \n  \"Find JavaScript Description\" Feature\n  =====================================\n  \n  -- Supported only by Sublime Text 3 --\n  \n  You can check the description of function/property/method by selecting the word (or, in case, it will take the first word near the blinking cursor) you want find. \n  \"right-click\" on your mouse and click on \"Find JavaScript Description\".\n  It will show a popup with the list of possible descriptions or, in some case, the direct description. \n  \n  Key-Map list: Preferences -> Package Settings ->  JavaScript Completions -> Key Bindings - Default.\n  \n  \"On Hover Description\" Feature\n  ==============================\n  \n  Supported only by Sublime Text 3, Build >= 3124\n  \n  Just put the cursor over a name of a function, property or constructor and it will appear a little popup with all matching found from the \"/sublime-completions\" list enabled. \n  \n  - F = function\n  - P = property\n  - C = constructor\n  \n  \n  \"Evaluate JavaScript\" Feature\n  =============================\n  \n  -- Supported only by Sublime Text 3 --\n  \n  This feature uses node.js installed locally by this plugin.\n  \n  You can change the path of \"node.js\" and \"npm\" on Preferences -> Package Settings ->  JavaScript Completions -> Settings - Default\n  \n  You can evaluate the entire text selection or the current line! \n  If you select a text region and evaluate it, in the gutter of the editor will appear 2 white dots.\n  The first white dot represents the start of the region and the second white dot represents the end of the region.\n  You can eventually modify the region and, without reselect the same region, you can evaluate it again! \n  If you want hide this 2 dots, there is an entry on the context menu \"Evaluate JavaScript\".\n  \n  When you evaluate code, this plugin will prepend \"use strict\"; automaticaly!\n  \n  There are two main mode to evaluate code:\n  - eval, https://nodejs.org/dist/latest-v6.x/docs/api/cli.html#cli_e_eval_script\n  - print, https://nodejs.org/dist/latest-v6.x/docs/api/cli.html#cli_p_print_script\n  \n  Key-Map list: Preferences -> Package Settings ->  JavaScript Completions -> Key Bindings - Default.\n  \n  \n  \"Can I use?\" Feature\n  ====================\n  \n  Supported only by Sublime Text 3, Build >= 3124\n  \n  This feature uses \"can i use\" json data from this repository: https://github.com/Fyrd/caniuse, that contains raw data from the http://caniuse.com support tables.\n  Thanks to @Fyrd.\n  \n  You can use this feature in HTML, CSS and JavaScript context!\n  Just put the cursor on the word you want to check, \"right-click\" -> \"Can I use?\" and it will appear an input panel with all items that have a name matching with the word.\n  You can use key-map: ctrl+alt+w. Key-Map list: Preferences -> Package Settings ->  JavaScript Completions -> Key Bindings - Default.\n  After selecting an item from the list, it will appear a popup with all information from the http://caniuse.com support tables.\n  You can find it under \"Tools\" menu -> \"JavaScript Completions\" -> Search on \"Can I use\" list.\n  \n  \n  \"JSDoc\" Feature\n  ===============\n  \n  Supported only by Sublime Text 3\n  \n  Requires npm\n  \n  This feature uses https://github.com/jsdoc3/jsdoc to generate API documentation.\n  \n  You can find it under \"Tools\" menu -> \"JavaScript Completions\".\n  \n  There are 2 main menu items:\n  - Generate Documentation\n  - Add jsdoc configuration file to the current project folder\n  \n  These items can be used only with a project folder opened.\n  \"Generate Documentation\" uses the jsdoc command line to generate documentation.\n  It uses conf.json file for configuration.\n  The options (with default values) availables are:\n  {\n    \"tags\": {\n      \"allowUnknownTags\": true,\n      \"dictionaries\": [\"jsdoc\",\"closure\"]\n    },\n    \"source\": {\n      \"include\": [  ],\n      \"exclude\": [  ],\n      \"includePattern\": \".+\\\\.js(doc|x)?$\",\n      \"excludePattern\": \"(^|\\\\/|\\\\\\\\)_\"\n    },\n    \"opts\": {\n      \"template\": \"templates/default\",\n      \"encoding\": \"utf8\",\n      \"destination\": \"./out/\",\n      \"recurse\": true,\n      \"tutorials\": \"\"\n    },\n    \"plugins\": [],\n    \"templates\": {\n      \"cleverLinks\": false,\n      \"monospaceLinks\": false\n    }\n  }\n  \n  \"Add jsdoc configuration file to the current project folder\" will add a conf.json file with default values to the current project folder.\n  \n  How to use JSDoc: http://usejsdoc.org/\n  \n  \n  Context menu options\n  ====================\n  \n  Context menu options:\n  - Surround With\n  - Delete Surrounded\n  - Create Class from object literal\n  - Sort array\n  - Split string lines to variable\n  \n  ## Surround With ##\n  \n  You MUST first select text to \"enable\" these options.\n  \n  You can surround code with:\n  - if statement\n  - if else statement (this works only if you selected 2 regions)\n  - while statement\n  - do while statement\n  - for statement\n  - try catch statement\n  - try catch finally statement\n  \n  This option works also on multiple selections at once.\n  \n  ## Delete Surrounded ##\n  \n  Options are:\n  - Strip quoted string\n  \n  This option works also on multiple selections at once.\n  \n  ## Create Class from object literal ##\n  \n  This option create a JavaScript Class from an object literal (Constructor with all setter and getter for each field).\n  You can set default values or use the string \"required\" to say that a field hasn't a default value.\n  To work properly, you MUST declare a variable and assign an object literal to it, like this example:\n  \n  var Person = {\n    name: \"required\",\n    surname: \"required\",\n    email: \"\",\n    age: 18\n  }\n  \n  This option works also on multiple selections at once.\n  \n  ## Sort array ##\n  \n  Just put the cursor between brackets and will appear a menu with these options:\n  - Sort array ASC ( compare function: function(x,y){return x-y;} )\n  - Sort array DESC ( compare function: function(x,y){return y-x;} )\n  - Sort array alphabetically ASC\n  - Sort array alphabetically DESC\n  \n  This option works also on multiple selections at once.\n  \n  ## Split string lines to variable ##\n  \n  Just put the cursor between a string with multiple lines and this option will appear in the context menu.\n  It will split the string and for each line will be concatenated to a variable named \"str\".\n  This option works also on multiple selections at once.\n  \n  MIT License\n\n\nJavaScript Enhancements\n-----------------------\n\n  =================================================================\n  ** THIS PLUGIN IS IN BETA! Thanks for your support in advance! **\n  =================================================================\n  \n  If you like it, remember to star it ⭐ on GitHub: https://github.com/pichillilorenzo/JavaScriptEnhancements\n  \n  ** USAGE **\n  ===========\n  \n  See how it works on the Wiki: 👉👉 https://github.com/pichillilorenzo/JavaScriptEnhancements/wiki 👈👈\n  \n  A little introduction to this plugin could be found in this css-tricks.com article: \"Turn Sublime Text 3 into a JavaScript IDE\"\n  👉👉 https://css-tricks.com/turn-sublime-text-3-into-a-javascript-ide 👈👈\n  \n  \n  *****************************************************************************\n  *                                                                           *\n  *             Do you want to help me develop this plugin?                   *\n  *                                                                           *\n  *                     Become a member of the team!                          *\n  * (see https://github.com/pichillilorenzo/JavaScriptEnhancements/issues/51) *\n  *                                                                           *\n  *****************************************************************************\n  \n  \n  ** WHAT IS THIS? **\n  ===================\n  \n  This plugin uses Flow (javascript static type checker from Facebook) under the hood.\n  \n  It offers better javascript autocomplete and a lot of features about creating, \n  developing and managing javascript projects, such as:\n  \n  - Cordova projects (run cordova emulate, build, compile, serve, etc. directly from Sublime Text!)\n  - Ionic v1 and v2 (it includes also v3) projects (same as Cordova projects!)\n  - Angular v1 and v2 (it includes also v4 and v5) projects\n  - Vue projects (only about the creation at this moment, see https://github.com/pichillilorenzo/JavaScriptEnhancements/wiki/Example-Vue.js-project)\n  - React projects (only about the creation at this moment)\n  - React Native projects (only about the creation at this moment. I will add also NativeScript support)\n  - Express projects (only about the creation at this moment)\n  - Yeoman generators\n  - Local bookmarks project\n  - JavaScript real-time errors\n  - Code Refactoring\n  - etc.\n  \n  You could use it also in existing projects (see the Wiki - https://github.com/pichillilorenzo/JavaScriptEnhancements/wiki/Using-it-with-an-existing-project)!\n  \n  It turns Sublime Text into a JavaScript IDE like!\n  \n  This project is based on my other Sublime Text plugin JavaScript Completions (https://github.com/pichillilorenzo/JavaScript-Completions)\n  \n  ** NOTE **\n  If you want use this plugin, you may want uninstall/disable the JavaScript Completions plugin, if installed.\n  \n  ** OS SUPPORTED **\n  ==================\n  \n  👉 Linux (64-bit)\n  👉 Mac OS X \n  👉 Windows (64-bit): released without the use of TerminalView plugin. For each feature (like also creating a project) will be used the cmd.exe shell (so during the creation of a project don't close it until it finishes!). Unfortunately the TerminalView plugin supports only Linux-based OS 😞. See https://github.com/Wramberg/TerminalView/issues/3#issuecomment-390434623, that is a workaround using WSL (Windows Subsystem for Linux).\n  \n  ❗❗ Dependencies ❗❗\n  =======================\n  \n  In order to work properly, this plugin has some dependencies:\n  \n  👉 Sublime Text 3 (build 3124 or newer)\n  👉 Node.js and npm (https://nodejs.org or nvm (https://github.com/creationix/nvm))\n  👉 TerminalView (only for Linux and Mac OS X) sublime text plugin (https://github.com/Wramberg/TerminalView)\n  \n  Not required, but useful for typescript files (Flow wont work on this type of files):\n  \n  👉 TypeScript sublime text plugin (https://github.com/Microsoft/TypeScript-Sublime-Plugin) \n  \n  ** Flow Requirements **\n  =======================\n  \n  It use [Flow](https://github.com/facebook/flow) for type checking and auto-completions.\n  \n  👉 Mac OS X\n  👉 Linux (64-bit)\n  👉 Windows (64-bit)\n  \n  Email me for any questions or doubts about this new project on: pichillilorenzo@gmail.com\n  \n  ** Donation **\n  ==============\n  \n  If this project help you reduce time to develop and also you like it, please support it with a donation 😄👍. Thanks!\n  \n  Open Collective: https://opencollective.com/javascriptenhancements/donate\n  PayPal: https://www.paypal.me/LorenzoPichilli\n  \n  Thanks anyway for your support! 😄😄\n  \n  MIT License\n\n\nJSON Key-Value\n--------------\n\n  # JSON Key-Value Installed\n  \n  Thanks for installing! Enjoy!\n  \n  To use, select the `JSON Key-Value` syntax when editing a json file.\n\n\nMagicPython\n-----------\n\n  MagicPython\n  ===========\n  \n  Thank you for installing MagicPython -- a syntax highlighter for\n  cutting edge Python.\n  \n  You're almost there, please do the following steps to finish\n  the installation:\n  \n  * Close all open Python files;\n  \n  * Disable the \"Python\" package:\n  \n    - via Package Control by executing \"Package Control: Disable Package\";\n  \n    - or manually, by adding \"Python\" to \"ignored_packages\", in your\n      `Preferences.sublime-settings` file.\n  \n  If you find any oddities in how your Python code is highlighted, please\n  file a bug at https://github.com/MagicStack/MagicPython/issues.\n\n\nSass\n----\n\n  Sass 2.0\n  ======================\n  \n  Thank you for installing Sass for Sublime Text.\n  \n  2.0 supports things like flex-box syntax, custom properties, function snippets\n  and more for both Sass and SCSS.\n  It is now also in line with the scope naming guidelines for Sublime Text 3.0,\n  highlighting should be very similar to CSS and LESS.\n  \n  If something doesn't work for you let us know at:\n  https://github.com/braver/SublimeSass\n  \n  1.x is still available as a different package: \"Syntax Highlighting for Sass\":\n  https://github.com/P233/Syntax-highlighting-for-Sass\n\n\nColor Highlighter\n-----------------\n\n  \n  Color Highlighter v8.0 is released!\n  \n  For more info about the plugin visit https://github.com/Monnoroch/ColorHighlighter.\n  \n  Color Highlighter was developed for many years and features were added without consideration.\n  As a result it has plenty of bugs and code is completely unmaintainable.\n  Because of it, I've decided to rewrite the plugin from scratch using all the good programming practices I learned\n  over the years.\n  \n  This is the first release of the new version and it might have some subtle bugs, especially on Windows and Mac, as I\n  don't have machines with these systems. If you find any bugs, please file them in\n  the bug tracker here: https://github.com/Monnoroch/ColorHighlighter/issues. I always appreciate your help and try to fix\n  problems as soon as possible.\n  \n  The plugin is being developed by me alone in my spare time, so if you want to encourage me to build it\n  better and faster, donations as always welcome.\n  \n  Thank you guys for your support, every little bit helps!\n\n\nColor Highlighter\n-----------------\n\n  \n  Color Highlighter v8.0 is released!\n  \n  For more info about the plugin visit https://github.com/Monnoroch/ColorHighlighter.\n  \n  Color Highlighter was developed for many years and features were added without consideration.\n  As a result it has plenty of bugs and code is completely unmaintainable.\n  Because of it, I've decided to rewrite the plugin from scratch using all the good programming practices I learned\n  over the years.\n  \n  This is the first release of the new version and it might have some subtle bugs, especially on Windows and Mac, as I\n  don't have machines with these systems. If you find any bugs, please file them in\n  the bug tracker here: https://github.com/Monnoroch/ColorHighlighter/issues. I always appreciate your help and try to fix\n  problems as soon as possible.\n  \n  The plugin is being developed by me alone in my spare time, so if you want to encourage me to build it\n  better and faster, donations as always welcome.\n  \n  Thank you guys for your support, every little bit helps!\n\n\nColor Highlighter\n-----------------\n\n  \n  Color Highlighter v8.0 is released!\n  \n  For more info about the plugin visit https://github.com/Monnoroch/ColorHighlighter.\n  \n  Color Highlighter was developed for many years and features were added without consideration.\n  As a result it has plenty of bugs and code is completely unmaintainable.\n  Because of it, I've decided to rewrite the plugin from scratch using all the good programming practices I learned\n  over the years.\n  \n  This is the first release of the new version and it might have some subtle bugs, especially on Windows and Mac, as I\n  don't have machines with these systems. If you find any bugs, please file them in\n  the bug tracker here: https://github.com/Monnoroch/ColorHighlighter/issues. I always appreciate your help and try to fix\n  problems as soon as possible.\n  \n  The plugin is being developed by me alone in my spare time, so if you want to encourage me to build it\n  better and faster, donations as always welcome.\n  \n  Thank you guys for your support, every little bit helps!\n",
+					"settings":
+					{
+						"buffer_size": 20648,
+						"line_ending": "Windows",
+						"name": "Package Control Messages",
+						"read_only": true,
+						"scratch": true
+					}
+				},
+				{
+					"contents": "$font-stack:    Helvetica, sans-serif;\n$primary-color: #333;\n\nbody {\n  font: 100% $font-stack;\n  color: $primary-color;  \n  size:2\n}  ",
+					"file": "//dmte8/inetpub/wwwroot/.styles/test.scss",
+					"file_size": 141,
+					"file_write_time": 132277211374809018,
+					"settings":
+					{
+						"buffer_size": 134,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "body{font:100% Helvetica,sans-serif;color:#333;size:2}\n",
+					"file": "//dmte8/inetpub/wwwroot/.styles/test.css",
+					"file_size": 15,
+					"file_write_time": 132277230306062804,
+					"settings":
+					{
+						"buffer_size": 55,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "//dmte8/inetpub/wwwroot/faq/assets/css/style.scss",
+					"settings":
+					{
+						"buffer_size": 7723,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "//dmte8/inetpub/wwwroot/.styles/style.scss",
+					"settings":
+					{
+						"buffer_size": 124,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "//dmte8/inetpub/wwwroot/.styles/style.css",
+					"settings":
+					{
+						"buffer_size": 159568,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "//dmte8/inetpub/wwwroot/.styles/test.txt",
+					"settings":
+					{
+						"buffer_size": 14,
+						"encoding": "UTF-8",
+						"line_ending": "Windows",
+						"name": "#FF00F1"
+					}
+				},
+				{
+					"file": "/C/Users/jmayberry/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 32,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "{\n    \"search_colors_in\": {\n        \"selection\": {\n            \"enabled\": true,\n            \"color_highlighters\": {\n                \"color_scheme\": {\n                    \"enabled\": false,\n                    \"highlight_style\": \"filled\"\n                },\n                \"gutter_icons\": {\n                    \"enabled\": false,\n                    \"icon_style\": \"circle\"\n                },\n                \"phantoms\": {\n                    \"enabled\": true,\n                    \"style\": \"right\",\n                    \"length\": 2\n                }\n            }\n        },\n        \"all_content\": {\n            \"enabled\": true,\n            \"color_highlighters\": {\n                \"color_scheme\": {\n                    \"enabled\": true,\n                    \"highlight_style\": \"text\"\n                },\n                \"gutter_icons\": {\n                    \"enabled\": true,\n                    \"icon_style\": \"circle\"\n                },\n                \"phantoms\": {\n                    \"enabled\": false,\n                    \"style\": \"right\",\n                    \"length\": 2\n                }\n            }\n        },\n        \"hover\": {\n            \"enabled\": true,\n            \"color_highlighters\": {\n                \"color_scheme\": {\n                    \"enabled\": false,\n                    \"highlight_style\": \"filled\"\n                },\n                \"gutter_icons\": {\n                    \"enabled\": false,\n                    \"icon_style\": \"circle\"\n                },\n                \"phantoms\": {\n                    \"enabled\": false,\n                    \"style\": \"right\",\n                    \"length\": 2\n                }\n            }\n        }\n    },\n    \"default_keybindings\": true,\n    \"file_extensions\": [\".css\", \".less\", \".scss\", \".sass\", \".styl\"],\n    \"icon_factory\": {\n        \"convert_command\": \"convert\",\n        \"convert_timeout\": 5\n    },\n    \"autoreload\": {\n        \"when_settings_change\": true,\n        \"when_color_scheme_change\": true\n    },\n    \"regex_compiler\": {\n        \"channels\": {\n            \"hex\": \"[0-9a-fA-F]\",\n            \"dec\": \"\\\\d{1,3}\",\n            \"float\": \"(?:[0|1])|(?:[1][\\\\.]?[0]*)|(?:[0]?[\\\\.]\\\\d*)\",\n            \"perc\": \"(?:\\\\d{1,3}[%])|(?:0)\"\n        },\n        \"formats\": {\n            \"sharp8\": {\n                \"description\": \"Hex #RRGGBBAA color format\",\n                \"regex\": \"#[0-9a-fA-F]{8}\",\n                \"white\": \"#FFFFFFFF\"\n            },\n            \"sharp6\": {\n                \"description\": \"Hex #RRGGBBAA color format\",\n                \"regex\": \"#[0-9a-fA-F]{6}\",\n                \"white\": \"#FFFFFF\",\n                \"after\": \"sharp8\"\n            },\n            \"sharp4\": {\n                \"description\": \"Hex #RGBA color format\",\n                \"regex\": \"#(?P<R>hex)(?P<G>hex)(?P<B>hex)(?P<A>hex)\",\n                \"white\": \"#FFFF\",\n                \"after\": \"sharp6\"\n            },\n            \"sharp3\": {\n                \"description\": \"Hex #RGB color format\",\n                \"regex\": \"#(?P<R>hex)(?P<G>hex)(?P<B>hex)\",\n                \"white\": \"#FFF\",\n                \"after\": \"sharp4\"\n            },\n            \"rgba\": {\n                \"description\": \"rgba(255,255,100%,1) color format\",\n                \"regex\": \"rgba[(][ ]*(?P<R>dec|perc)[ ]*[,][ ]*(?P<G>dec|perc)[ ]*[,][ ]*(?P<B>dec|perc)[ ]*[,][ ]*(?P<A>float)[ ]*[)]\",\n                \"white\": \"rgba(255, 255, 100%, 1)\"\n            },\n            \"rgb\": {\n                \"description\": \"rgb(255,255,100%) color format\",\n                \"regex\": \"rgb[(][ ]*(?P<R>dec|perc)[ ]*[,][ ]*(?P<G>dec|perc)[ ]*[,][ ]*(?P<B>dec|perc)[ ]*[)]\",\n                \"white\": \"rgb(255, 255, 100%)\"\n            },\n            \"hsva\": {\n                \"description\": \"hsva(hue 0..360, s%, v%, alpha 0.0 .. 1.0) color format\",\n                \"regex\": \"hsva[(][ ]*(?P<H>dec)[ ]*[,][ ]*(?P<S>perc)[ ]*[,][ ]*(?P<V>perc)[ ]*[,][ ]*(?P<A>float)[ ]*[)]\",\n                \"white\": \"hsva(0, 0%, 100%, 1.)\"\n            },\n            \"hsv\": {\n                \"description\": \"hsv(hue 0..360, s%, v%) color format\",\n                \"regex\": \"hsv[(][ ]*(?P<H>dec)[ ]*[,][ ]*(?P<S>perc)[ ]*[,][ ]*(?P<V>perc)[ ]*[)]\",\n                \"white\": \"hsv(0, 0%, 100%)\"\n            },\n            \"hsla\": {\n                \"description\": \"hsla(hue 0..360, s%, v%, alpha 0.0 .. 1.0) color format\",\n                \"regex\": \"hsla[(][ ]*(?P<H>dec)[ ]*[,][ ]*(?P<S>perc)[ ]*[,][ ]*(?P<L>perc)[ ]*[,][ ]*(?P<A>float)[ ]*[)]\",\n                \"white\": \"hsla(0, 0%, 100%, 1.)\"\n            },\n            \"hsl\": {\n                \"description\": \"hsl(hue 0..360, s%, v%) color format\",\n                \"regex\": \"hsl[(][ ]*(?P<H>dec)[ ]*[,][ ]*(?P<S>perc)[ ]*[,][ ]*(?P<L>perc)[ ]*[)]\",\n                \"white\": \"hsl(0, 0%, 100%)\"\n            }\n        }\n    },\n    \"experimental\": {\n        \"asynchronosly_update_color_scheme\": false\n    },\n    \"debug\": false\n}\n",
+					"file": "/C/Users/jmayberry/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 4838,
+						"line_ending": "Windows",
+						"read_only": true,
+						"scratch": true
+					}
+				},
+				{
+					"file": "//dmte8/inetpub/wwwroot/.styles/temp.txt",
+					"settings":
+					{
+						"buffer_size": 4838,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"packageres",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"packageresource",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"packageResource",
+						"PackageResourceViewer: Extract All Packages"
+					],
+					[
+						"package res",
+						"PackageResourceViewer: Open Resource"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+					"PackageResourceViewer: Open Resource"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/jmayberry/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/C/Users/jmayberry/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+				"/C/Users/jmayberry/Downloads/codyhouse-framework-master/gulpfile.js",
+				"//dmte8/inetpub/wwwroot/.styles/_base.scss",
+				"//dmte8/inetpub/wwwroot/.styles/_custom-style.scss",
+				"//dmte8/inetpub/wwwroot/.styles/style.scss",
+				"/C/Users/jmayberry/Downloads/codyhouse-framework-master/main/index.html",
+				"/C/Users/jmayberry/Downloads/codyhouse-framework-master/main/assets/js/util.js",
+				"/C/Users/jmayberry/Downloads/codyhouse-framework-master/main/assets/js/scripts.js",
+				"//dmte8/inetpub/wwwroot/.styles/style-fallback.css",
+				"//dmte8/inetpub/wwwroot/faq/assets/css/cody/_base.scss",
+				"//dmte8/inetpub/wwwroot/.styles/test.sass",
+				"/C/Users/jmayberry/AppData/Roaming/Sublime Text 3/Packages/Python/Python.sublime-build",
+				"/C/Users/jmayberry/AppData/Roaming/Sublime Text 3/Packages/PackageResourceViewer/README.md",
+				"/C/Users/jmayberry/AppData/Roaming/Sublime Text 3/Packages/Restart/Restart.sublime-settings"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					":root",
+					".css",
+					"fallba"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 9,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 20648,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										17596,
+										17641
+									]
+								],
+								"settings":
+								{
+									"auto_indent": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_width": 2,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 9339.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "//dmte8/inetpub/wwwroot/.styles/test.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 134,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										121,
+										121
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "//dmte8/inetpub/wwwroot/.styles/test.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 55,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										55,
+										55
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "//dmte8/inetpub/wwwroot/faq/assets/css/style.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7723,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										23,
+										69
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "//dmte8/inetpub/wwwroot/.styles/style.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 124,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										124,
+										124
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "//dmte8/inetpub/wwwroot/.styles/style.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 159568,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										152110,
+										152110
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 8453.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "//dmte8/inetpub/wwwroot/.styles/test.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 14,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										14,
+										14
+									]
+								],
+								"settings":
+								{
+									"auto_name": "#FF00F1",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/C/Users/jmayberry/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 32,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										27,
+										27
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScriptNext - ES6 Syntax/JSON (JavaScriptNext).tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/C/Users/jmayberry/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4838,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										4838
+									]
+								],
+								"settings":
+								{
+									"mini_diff": false,
+									"syntax": "Packages/JavaScriptNext - ES6 Syntax/JSON (JavaScriptNext).tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "//dmte8/inetpub/wwwroot/.styles/temp.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4838,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4838,
+										4838
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1537.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 247.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/SASS.sublime-build",
+			"position": "0,2,3,-1,-1,-1,-1,565,26,26,682",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
