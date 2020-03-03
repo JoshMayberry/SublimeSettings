@@ -1,3 +1,7 @@
+*.exe
+*.cache
+*.tmTheme
+
 Pristine Packages/
 Packages/*
 Settings/
@@ -24,3 +28,13 @@ Packages/C++/*
 Packages/AutoHotkey/*
 !Packages/AutoHotkey/AutoHotkey.sublime-settings
 !Packages/AutoHotkey/Main.sublime-menu
+
+!Packages/AutoHotkey
+Packages/AutoHotkey/*
+!Packages/AutoHotkey/AutoHotkey.sublime-settings
+!Packages/AutoHotkey/Main.sublime-menu
+
+!Packages/SASS Build
+Packages/SASS Build/*
+!Packages/SASS Build/*.sublime-build
+
