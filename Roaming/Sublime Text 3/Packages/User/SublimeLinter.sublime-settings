@@ -1,0 +1,60 @@
+// SublimeLinter Settings - User
+{
+	"show_panel_on_save": "view",
+	"statusbar.messages_template": "",
+	"statusbar.show_active_linters": false,
+
+	"paths": {
+		"windows": ["\\\\dmte8/PHP/v7.4"],
+	},
+
+	"gutter_theme": "Danish Royalty",
+	"styles": [
+		{
+			"types": ["warning"],
+			"scope": "region.yellowish markup.warning.sublime_linter",
+			"icon": "warning",
+			"mark_style": "squiggly_underline"
+		},
+		{
+			"types": ["error"],
+			"scope": "region.redish markup.error.sublime_linter",
+			"icon": "error",
+			"priority": 1,
+			"mark_style": "squiggly_underline",
+		}
+	],
+	 "linters": {
+		// The name of the linter you installed
+		"annotations": {
+			"disable": true,
+
+			"styles": [
+				{
+					"types": ["warning"],
+					"scope": "region.bluish",
+					"mark_style": "stippled_underline",
+					"icon": "none",
+				}
+			],
+		},
+		"jshint": {
+			"disable": false,
+
+			// "filter_errors": ["W083"]
+		},
+		"sass": {
+			"disable": false,
+
+			"filter_errors": ["Mixed tabs and spaces"],
+			"working_dir": "~",
+		},
+		"php": {
+			"disable": false,
+
+			"env": {"PATH":"\\\\dmte8/PHP/v7.4"},
+
+			"filter_errors": ["W083"],
+		}
+	}
+}

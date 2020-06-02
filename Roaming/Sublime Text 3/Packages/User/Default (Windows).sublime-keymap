@@ -7,7 +7,8 @@
 		"args": {
 			"commands": [
 				["hide_panel", {"cancel": true}],
-				["exec", {"kill":true}]
+				["exec", {"hide_phantoms_only": true}],
+				["exec", {"kill": true}]
 			]
 		}
 	},

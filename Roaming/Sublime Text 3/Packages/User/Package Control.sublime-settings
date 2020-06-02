@@ -5,16 +5,17 @@
 	],
 	"installed_packages":
 	[
-		"AutoHotkey",
 		"Better Less",
+		"BracketHighlighter",
 		"Chain of Command",
+		"Color Highlight",
 		"Color Highlighter",
 		"Cython+",
 		"File History",
 		"G-code Syntax Highlighting",
+		"Gutter Themes for SL",
 		"INI",
 		"Inno Setup",
-		"JavaScript Enhancements",
 		"JavaScriptNext - ES6 Syntax",
 		"JsFormat",
 		"JSON Key-Value",
@@ -22,13 +23,18 @@
 		"MagicPython",
 		"Markdown Extended",
 		"Monokai JSON+",
-		"NSIS",
+		"Monokai++",
 		"Package Control",
 		"PackageResourceViewer",
-		"Pretty JSON",
-		"Pretty YAML",
 		"Restart",
 		"Sass",
-		"TypeScript"
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-contrib-sass-lint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"SublimeLinter-pylint"
 	]
 }

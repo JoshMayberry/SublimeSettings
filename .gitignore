@@ -1,41 +1,61 @@
-*.exe
-*.cache
-*.tmTheme
+/*
 
-Pristine Packages/
-Packages/*
-Settings/
-Backup/
+!Roaming
+Roaming/*
 
-!Packages/User
-Packages/User/*.crt
-Packages/User/Default*
-Packages/User/FileHistory*
-Packages/User/Package Control*
-!Packages/User/*.sublime-settings
-!Packages/User/*.sublime-keymap
+# Sublime Text
+!Roaming/Sublime Text 3
+Roaming/Sublime Text 3/*
 
-!Packages/Inno Setup
-Packages/Inno Setup/*
-!Packages/Inno Setup/Inno Setup.tmLanguage
-!Packages/Inno Setup/Inno Setup.sublime-completions
+!Roaming/Sublime Text 3/Packages
+Roaming/Sublime Text 3/Packages/*
 
-!Packages/C++
-Packages/C++/*
-!Packages/C++/C++.sublime-build
+!Roaming/Sublime Text 3/Packages/User
+Roaming/Sublime Text 3/Packages/User/*.crt
+Roaming/Sublime Text 3/Packages/User/Default*
+Roaming/Sublime Text 3/Packages/User/FileHistory*
+Roaming/Sublime Text 3/Packages/User/Package Control*
+Roaming/Sublime Text 3/Packages/User/Color Highlight.cache*
+!Roaming/Sublime Text 3/Packages/User/*.sublime-settings
+!Roaming/Sublime Text 3/Packages/User/*.sublime-keymap
 
-!Packages/AutoHotkey
-Packages/AutoHotkey/*
-!Packages/AutoHotkey/AutoHotkey.sublime-settings
-!Packages/AutoHotkey/Main.sublime-menu
+!Roaming/Sublime Text 3/Packages/Inno Setup
+Roaming/Sublime Text 3/Packages/Inno Setup/*
+!Roaming/Sublime Text 3/Packages/Inno Setup/Inno Setup.tmLanguage
+!Roaming/Sublime Text 3/Packages/Inno Setup/Inno Setup.sublime-completions
 
-!Packages/AutoHotkey
-Packages/AutoHotkey/*
-!Packages/AutoHotkey/AutoHotkey.sublime-settings
-!Packages/AutoHotkey/Main.sublime-menu
+!Roaming/Sublime Text 3/Packages/C++
+Roaming/Sublime Text 3/Packages/C++/*
+!Roaming/Sublime Text 3/Packages/C++/C++.sublime-build
 
-!Packages/SASS Build
-Packages/SASS Build/*
-!Packages/SASS Build/*.sublime-build
+!Roaming/Sublime Text 3/Packages/AutoHotkey
+Roaming/Sublime Text 3/Packages/AutoHotkey/*
+!Roaming/Sublime Text 3/Packages/AutoHotkey/AutoHotkey.sublime-settings
+!Roaming/Sublime Text 3/Packages/AutoHotkey/Main.sublime-menu
 
-.sublime/Local History/
+!Roaming/Sublime Text 3/Packages/AutoHotkey
+Roaming/Sublime Text 3/Packages/AutoHotkey/*
+!Roaming/Sublime Text 3/Packages/AutoHotkey/AutoHotkey.sublime-settings
+!Roaming/Sublime Text 3/Packages/AutoHotkey/Main.sublime-menu
+
+!Roaming/Sublime Text 3/Packages/SASS Build
+Roaming/Sublime Text 3/Packages/SASS Build/*
+!Roaming/Sublime Text 3/Packages/SASS Build/*.sublime-build
+
+# NPM
+!Roaming/npm
+Roaming/npm/*
+
+!Roaming/npm/node_modules
+Roaming/npm/node_modules/*
+
+!Roaming/npm/node_modules/sass-lint
+Roaming/npm/node_modules/sass-lint/*
+
+!Roaming/npm/node_modules/sass-lint/lib
+Roaming/npm/node_modules/sass-lint/lib/*
+
+!Roaming/npm/node_modules/sass-lint/lib/config
+Roaming/npm/node_modules/sass-lint/lib/config/*
+!Roaming/npm/node_modules/sass-lint/lib/config/*.yml
+
