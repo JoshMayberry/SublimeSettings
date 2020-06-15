@@ -35,6 +35,7 @@
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"SublimeLinter-php",
-		"SublimeLinter-pylint"
+		"SublimeLinter-pylint",
+		"Text Pastry"
 	]
 }

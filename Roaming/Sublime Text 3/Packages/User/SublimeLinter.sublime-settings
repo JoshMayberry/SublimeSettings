@@ -4,6 +4,8 @@
 	"statusbar.messages_template": "",
 	"statusbar.show_active_linters": false,
 
+	"lint_mode": "load_save",
+
 	"paths": {
 		"windows": ["\\\\dmte8/PHP/v7.4"],
 	},

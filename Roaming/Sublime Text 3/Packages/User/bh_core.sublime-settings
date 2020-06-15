@@ -1,3 +1,4 @@
 {
-    "ignore_threshold": true,
+    "ignore_threshold": false,
+    "search_threshold": 50000,
 }
