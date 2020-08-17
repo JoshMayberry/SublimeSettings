@@ -22,6 +22,7 @@
 		"Local History",
 		"MagicPython",
 		"Markdown Extended",
+		"Microsoft Power Query Syntax",
 		"Monokai JSON+",
 		"Monokai++",
 		"Package Control",
@@ -36,6 +37,7 @@
 		"SublimeLinter-json",
 		"SublimeLinter-php",
 		"SublimeLinter-pylint",
-		"Text Pastry"
+		"Text Pastry",
+		"VBScript"
 	]
 }

@@ -57,6 +57,10 @@
 			"env": {"PATH":"\\\\dmte8/PHP/v7.4"},
 
 			"filter_errors": ["W083"],
+		},
+		"csslint": {
+			"disable": false,
+			"filter_errors": ["important", "adjoining-classes", "ids"]
 		}
 	}
 }
