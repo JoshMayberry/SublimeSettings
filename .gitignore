@@ -45,6 +45,8 @@ Roaming/Sublime Text 3/Packages/SASS Build/*
 # NPM
 !Roaming/npm
 Roaming/npm/*
+!Roaming/npm/*.yml
+!Roaming/npm/*.ini
 
 !Roaming/npm/node_modules
 Roaming/npm/node_modules/*

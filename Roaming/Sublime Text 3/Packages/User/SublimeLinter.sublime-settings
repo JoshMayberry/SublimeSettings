@@ -1,5 +1,7 @@
 // SublimeLinter Settings - User
 {
+	"debug": true,
+
 	"show_panel_on_save": "view",
 	"statusbar.messages_template": "",
 	"statusbar.show_active_linters": false,
@@ -47,8 +49,7 @@
 		},
 		"sass": {
 			"disable": false,
-
-			"filter_errors": ["Mixed tabs and spaces"],
+			"args": "--config %AppData%/npm/.sass-lint.yml",
 			"working_dir": "~",
 		},
 		"php": {
@@ -61,6 +62,10 @@
 		"csslint": {
 			"disable": false,
 			"filter_errors": ["important", "adjoining-classes", "ids"]
+		},
+		"pylint": {
+			"disable": false,
+			"args": ["--indent-string='\t'", "--indent-after-paren=1", "--rcfile=%AppData%\\npm\\.pylintrc.ini"]
 		}
 	}
 }
