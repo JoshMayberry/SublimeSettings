@@ -42,6 +42,9 @@ Roaming/Sublime Text 3/Packages/AutoHotkey/*
 Roaming/Sublime Text 3/Packages/SASS Build/*
 !Roaming/Sublime Text 3/Packages/SASS Build/*.sublime-build
 
+!Roaming/Sublime Text 3/Packages/Color Scheme - Default
+!Roaming/Sublime Text 3/Packages/Color Highlighter
+
 # NPM
 !Roaming/npm
 Roaming/npm/*
