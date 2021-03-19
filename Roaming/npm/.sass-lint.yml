@@ -3,6 +3,24 @@ rules:
   no-important: 0
   nesting-depth: 0
   variable-name-format: 0
+  no-css-comments: 0
+  force-element-nesting: 0
+  no-qualifying-elements: 0
+  no-color-literals: 0
+  leading-zero: 0
+  no-trailing-zero: 0
+  force-pseudo-nesting: 0
+  hex-length: 0
+
+  indentation:
+    - 1
+    -
+      size: 'tab'
+
+  class-name-format:
+    - 1
+    -
+      convention: hyphenatedbem
 
   # Use: https://github.com/tjw-lint/tjw-sasslint-rules/blob/master/tjwsasslint.yml#L100
   property-sort-order:
