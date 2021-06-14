@@ -20,7 +20,6 @@
 		"JavaScriptNext - ES6 Syntax",
 		"JsFormat",
 		"JSON Key-Value",
-		"Local History",
 		"MagicPython",
 		"Markdown Extended",
 		"Microsoft Power Query Syntax",
@@ -41,6 +40,6 @@
 		"SublimeLinter-php",
 		"SublimeLinter-pylint",
 		"Text Pastry",
-		"VBScript"
+		"VBScript",
 	],
 }
