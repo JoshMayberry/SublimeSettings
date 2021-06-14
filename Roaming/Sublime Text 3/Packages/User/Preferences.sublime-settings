@@ -4,8 +4,8 @@
 	"ignored_packages":
 	[
 		"Color Highlighter",
-		"Vintage"
+		"Vintage",
 	],
 	"show_definitions": false,
-	"theme": "Adaptive.sublime-theme"
+	"theme": "Adaptive.sublime-theme",
 }

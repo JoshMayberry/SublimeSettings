@@ -1,34 +1,35 @@
 [ 
-	{ "keys": ["escape"],
-		"context": [
-			{ "key": "panel_visible", "operator": "equal", "operand": true }
-				   ],
-		"command": "chain",
-		"args": {
-			"commands": [
-				["hide_panel", {"cancel": true}],
-				["exec", {"hide_phantoms_only": true}],
-				["exec", {"kill": true}]
-			]
-		}
-	},
-	{"keys":["ctrl+shift+b"],
-		"command": "chain",
-		"args": {
-			"commands": [
-				["repl_open", {
-						"type": "subprocess",
-						"encoding": "utf8",
-						"cmd": ["C:\\Python34\\python.exe", "-i", "-u", "$file_basename"],
-						"cwd": "$file_path",
-						"syntax": "Packages/Python/Python.tmLanguage",
-						"external_id": "python",
-						"extend_env": {"PYTHONIOENCODING": "utf-8"}
-						}],
-				["repl_transfer_current", {"scope": "file"}]
-			]
-		}
-	},
+	// { "keys": ["escape"],
+	// 	"context": [
+	// 		{ "key": "panel_visible", "operator": "equal", "operand": true }
+	// 			   ],
+	// 	"command": "chain",
+	// 	"args": {
+	// 		"commands": [
+	// 			["hide_panel", {"cancel": true}],
+	// 			["exec", {"hide_phantoms_only": true}],
+	// 			["exec", {"kill": true}]
+	// 		]
+	// 	}
+	// },
+	// {"keys":["ctrl+shift+b"],
+	// 	"command": "chain",
+	// 	"args": {
+	// 		"commands": [
+	// 			["repl_open", {
+	// 					"type": "subprocess",
+	// 					"encoding": "utf8",
+	// 					"cmd": ["C:\\Python34\\python.exe", "-i", "-u", "$file_basename"],
+	// 					"cwd": "$file_path",
+	// 					"syntax": "Packages/Python/Python.tmLanguage",
+	// 					"external_id": "python",
+	// 					"extend_env": {"PYTHONIOENCODING": "utf-8"}
+	// 					}],
+	// 			["repl_transfer_current", {"scope": "file"}]
+	// 		]
+	// 	}
+	// },
 	{ "keys": ["ctrl+w"], "command": "do nothing" },
+	{ "keys": ["f11"], "command": "do nothing" },
 	{ "keys": ["end"], "command": "move_to", "args": {"to": "hardeol", "extend": false} }
 ]
