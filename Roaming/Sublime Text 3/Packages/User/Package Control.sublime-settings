@@ -5,12 +5,14 @@
 	],
 	"installed_packages":
 	[
+		"All Autocomplete",
 		"Better Less",
 		"BracketHighlighter",
 		"Chain of Command",
 		"Color Highlight",
 		"Color Highlighter",
 		"Cython+",
+		"ESLint",
 		"File History",
 		"G-code Syntax Highlighting",
 		"Gutter Themes for SL",
@@ -35,6 +37,7 @@
 		"SublimeLinter-contrib-sass-lint",
 		"SublimeLinter-contrib-sqlint",
 		"SublimeLinter-csslint",
+		"SublimeLinter-eslint",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"SublimeLinter-php",

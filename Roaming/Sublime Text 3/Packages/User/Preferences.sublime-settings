@@ -8,4 +8,6 @@
 	],
 	"show_definitions": false,
 	"theme": "Adaptive.sublime-theme",
+	"tab_completion": false,
+	"auto_complete": true,
 }

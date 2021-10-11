@@ -1,0 +1,6 @@
+{
+	"cmd": ["npx", "snowpack", "build", "--reload"],
+	"windows": {
+		"shell": "true"
+	}
+}

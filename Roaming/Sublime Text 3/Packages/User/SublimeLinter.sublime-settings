@@ -44,6 +44,11 @@
 			],
 		},
 		"jshint": {
+			"disable": true,
+
+			// "filter_errors": ["W083"]
+		},
+		"eslint": {
 			"disable": false,
 
 			// "filter_errors": ["W083"]
