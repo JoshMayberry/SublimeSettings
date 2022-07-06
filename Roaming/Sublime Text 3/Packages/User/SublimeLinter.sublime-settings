@@ -44,7 +44,7 @@
 			],
 		},
 		"jshint": {
-			"disable": true,
+			"disable": false,
 
 			// "filter_errors": ["W083"]
 		},

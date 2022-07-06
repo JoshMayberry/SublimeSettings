@@ -1,0 +1,6 @@
+{
+	"cmd": ["juice", "--remove-style-tags", "1", "--insert-preserved-extra-css", "0", "--preserve-font-faces", "0", "--preserve-media-queries", "0", "--preserve-key-frames", "0", "--preserve-pseudos", "0", "$file", "${file_path}/${file_base_name}_juice.html"],
+	"windows": {
+		"shell": "true"
+	}
+}
