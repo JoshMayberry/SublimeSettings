@@ -4,6 +4,7 @@
 	"ignored_packages":
 	[
 		"Color Highlighter",
+		"Text Pastry",
 		"Vintage",
 	],
 	"show_definitions": false,

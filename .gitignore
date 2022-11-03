@@ -66,4 +66,10 @@ Roaming/npm/node_modules/sass-lint/lib/*
 Roaming/npm/node_modules/sass-lint/lib/config/*
 !Roaming/npm/node_modules/sass-lint/lib/config/*.yml
 
+!Roaming/npm/node_modules/powerbi-visuals-tools
+Roaming/npm/node_modules/powerbi-visuals-tools/*
+!Roaming/npm/node_modules/powerbi-visuals-tools/lib
+Roaming/npm/node_modules/powerbi-visuals-tools/lib/*
+!Roaming/npm/node_modules/powerbi-visuals-tools/lib/webpack.config.js
+
 Roaming/Sublime Text 3/Packages/User/TextPastryHistory.sublime-settings
